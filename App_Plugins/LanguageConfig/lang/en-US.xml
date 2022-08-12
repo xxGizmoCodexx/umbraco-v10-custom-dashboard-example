@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<language>
+  <area alias="dashboardTabs">
+    <key alias="SpellCheckTutorials">Spell Check Tutorials</key>
+    <key alias="UnpublishedTutorials">Unpublished Tutorials</key>
+    <key alias="myCustomSection">Custom Section</key>
+  </area>
+</language>
